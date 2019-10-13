@@ -5,4 +5,4 @@ This is a collection of exercises for modern javascript.
 Contents:
 
 Quiz (html,js)
-![quiz](quiz.gif)
+![quiz](Gifs/quiz.gif)
